@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cabdbb6-c52c-4fea-85db-43e479f1ab7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversorTemperatura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConversorTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversorTemperatura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661607421053</updated>
-      <workItem from="1661607422398" duration="1090000" />
+      <workItem from="1661607422398" duration="1773000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1661607467559</created>
@@ -92,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661607467559</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Inclusão da fórmula">
+      <created>1661608668416</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661608668416</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Inclusão da fórmula" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inclusão da fórmula" />
   </component>
 </project>

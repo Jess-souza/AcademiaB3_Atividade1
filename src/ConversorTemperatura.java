@@ -20,12 +20,15 @@ public class ConversorTemperatura {
         Scanner entradaDeDados = new Scanner(System.in);
         String Celsius;
 
-        System.out.println("Digite a temperatura em celsius que será convertida: ");
+        System.out.print("Digite a primeira temperatura em Celsius que será convertida: ");
         celsius = entradaDeDados.nextDouble();
-
         fahrenheit = (celsius * fator1) + fator2;
+        System.out.println("A conversão de " + celsius + " graus Celsius em Fahrenheit é: " + fahrenheit);
 
-        System.out.println("O que foi digitado:  " + fahrenheit);
+        System.out.print("Digite a segunda temperatura em Celsius que será convertida: ");
+        celsius = entradaDeDados.nextDouble();
+        fahrenheit = (celsius * fator1) + fator2;
+        System.out.println("A conversão de " + celsius + " graus Celsius em Fahrenheit é: " + fahrenheit);
     }
 }
 

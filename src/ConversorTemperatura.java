@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class ConversorTemperatura {
     public static void main(String[] args) {
         final double fator2 = 32;
-        final double fator1 = 1.8;
+        final double fator1 = 9.0 / 5.0;
         double fahrenheit;
         double celsius = 0;
 
